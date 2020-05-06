@@ -6,3 +6,7 @@ select  ID,Name ,(Quantity * Price) from products
 
 Select city, 'has sales of ', sales from Office
 
+#Duplicate Row Distnict
+//distinct
+
+select distinct 
