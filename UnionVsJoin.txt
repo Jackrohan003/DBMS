@@ -1,0 +1,8 @@
+Joins and Unions can be used to combine data from one or more tables. The difference lies in how the data is combined.
+
+In simple terms, joins combine data into new columns. 
+If two tables are joined together, then the data from the first table is shown in one set of column alongside the second table’s column in the same row.
+
+Unions combine data into new rows. 
+If two tables are “unioned” together, then the data from the first table is in one set of rows, and the data from the second table in another set. 
+The rows are in the same result.
